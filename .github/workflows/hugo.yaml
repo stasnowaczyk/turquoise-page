@@ -27,6 +27,11 @@ defaults:
   run:
     shell: bash
 
+# Google Analytics
+services:
+  googleAnalytics:
+    ID: G-B9JVZ9K18Z
+
 jobs:
   # Build job
   build:

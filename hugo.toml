@@ -6,6 +6,7 @@ theme = "hallo"
     name = "Stanislaw Nowaczyk"
 [params]
     greeting = "Hello!"
+    googleAnalytics = "G-B9JVZ9K18Z"
     [[params.links]]
         icon = "github"
         title = "Github"
