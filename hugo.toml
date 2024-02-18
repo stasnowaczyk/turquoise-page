@@ -1,0 +1,27 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-uk'
+title = 'Stanislaw Nowaczyk'
+theme = "hallo"
+[Author]
+    name = "Stanislaw Nowaczyk"
+[params]
+    greeting = "Hello!"
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/stasnowaczyk"
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:stas.nowaczyk@gmail.com"
+    [[params.links]]
+        iconset = "fab"
+        icon = "linkedin"
+        title = "linkedin"
+        url = "https://www.linkedin.com/in/stanislaw-nowaczyk/"
+    [[params.links]]
+        iconset = "fab"
+        icon = "whatsapp"
+        title = "whatsApp"
+        url = "https://wa.me/+447523661815"
