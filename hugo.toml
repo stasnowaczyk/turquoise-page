@@ -12,6 +12,11 @@ theme = "hallo"
         title = "Github"
         url = "https://github.com/stasnowaczyk"
     [[params.links]]
+        iconset = "fab"
+        icon = "gitlab"
+        title = "gitLab"
+        url = "https://gitlab.com/stasnowaczyk"
+    [[params.links]]
         iconset = "fas"
         icon = "envelope"
         title = "E-mail"
